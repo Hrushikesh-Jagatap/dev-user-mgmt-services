@@ -76,7 +76,7 @@ const processToSendOtp = async (params) => {
     // }
     // if(headers.app_name === 'admin' && args.isNewUser) {
     //    createTeacher({ userId: args.userId });
-    }
+    // }
     
 
     delete args.isNewUser;
